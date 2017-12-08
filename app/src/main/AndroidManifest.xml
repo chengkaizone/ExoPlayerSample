@@ -35,6 +35,8 @@
         </activity>
         <activity android:name=".videoedit.VideoEditActivity">
         </activity>
+        <activity android:name=".ui.OtherActivity">
+        </activity>
     </application>
 
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />

@@ -1,7 +1,7 @@
 <resources>
     <string name="done">完成</string>
 
-    <string name="app_name">播放器</string>
+    <string name="app_name">ExoPlayer</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_clear">清除信息</string>
     <string name="action_server">服务器设置</string>
@@ -29,5 +29,9 @@
     <string name="idCancel">取消:</string>
     <string name="idPressAgainToExitTest">再按一次退出</string>
     <string name="button_scan">搜索</string>
+
+    <string name="main_prompt">动画显示: (1)角度滑动 (2)爆炸效果</string>
+    <string name="other_transition_name">transition_reveal</string>
+    <string name="other_text">广告\n(Advertisement)</string>
 
 </resources>
